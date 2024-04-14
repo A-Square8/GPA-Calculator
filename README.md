@@ -2,6 +2,8 @@
 
 Welcome to the GPA Calculator repository! This project aims to provide a simple and intuitive tool for calculating Grade Point Average (GPA) on a 10-point scale. Whether you're a student, educator, or just curious about GPA calculation, this web application makes it easy to determine your GPA based on your grades.
 
+## Go check it out https://a-square8.github.io/GPA-Calculator/
+
 ## Features
 
 - **Easy Input**: Input your grades for each course effortlessly.
